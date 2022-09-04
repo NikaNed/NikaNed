@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NikaNed
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me babenkovanika@gmail.com
 
 <!---
 NikaNed/NikaNed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
